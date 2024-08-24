@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="choose_the_food_you_love">Choose the Food you love</string>
+    <string name="search">Search</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+</resources>
